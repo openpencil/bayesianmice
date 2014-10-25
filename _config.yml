@@ -1,7 +1,7 @@
 
 # site details
 name: Open Pencil
-url: ..
+url: ../
 baseurl: /bayesianmice
 description: Bayesian modeling for C. albicans colonization.
 
