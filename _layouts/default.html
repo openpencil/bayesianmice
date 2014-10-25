@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    <!-- meta attributes -->
+    <title>{{ page.title }}</title>
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="description" content="{{ site.description }}">
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+<div class="site">
+  <div class="title">
+    <a href="{{ site.url }}/" class="site-avatar"><img src="https://avatars3.githubusercontent.com/u/1999668?v=2&s=70" /></a>
+    <a href="{{ site.baseurl }}/">bayesianmice</a>
+    <a class="extra" href="/methods.html">Methods</a>
+  </div>
+  {{ content }}
+  <ul class="posts_list">
+      {% for post in site.posts %}
+        {% include post.html %}
+      {% endfor %}
+    </ul>
+
+  <div class="footer">
+    <div class="contact">
+      <p>
+        <a href="http://github.com/openpencil/bayesianmice">{% include svgicons/github.html %}</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+
+# site details
+name: Open Pencil
+url: https//openpencil.github.io
+baseurl: /bayesianmice
+description: Bayesian modeling for C. albicans colonization.
+
+# Conversion
+markdown: rdiscount
+rdiscount:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+    - generate_toc
+  toc_token: "!TOC"
+highlighter: pygments
+
+email: jyoti.shankar@icloud.com
+github: openpencil
