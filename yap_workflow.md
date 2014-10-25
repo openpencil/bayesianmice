@@ -13,7 +13,7 @@ title: The YAP Workflow
 Taxonomic classification of the 16S and ITS sequences was performed using [YAP][YAP], a computationally optimized bioinformatics workflow.  The workflow was run on a distributed computing cluster managed by the [Univa Grid Engine][Univa].
 
 ######Preliminary Processing and Quality Checks
-Within YAP, the 454 sequencer-generated SFF files were converted into FASTA and qual files using [sffinfo][sffinfo] from the Roche SFF Tools software package. After demultiplexing the sequences with mothur[^1], quality filtering of the sequences was performed using mothur’s implementation of PyroNoise[^2],[^3]. Sequences shorter than 220 bases were discarded[^4] and sequences spanning the V4 and the V5 regions of the 16S rDNA were retained. Duplicate sequences were collapsed and 454 hybrid sequences were removed with CD-HIT-454[^5a],[^6]. The sequences were then aligned against the 16S SILVA database to verify their 16S origins and to ensure that the sequences were correctly positioned on the V4 and V5 regions[^7]. Using the uchime implementation in mothur and the 16S SILVA database, multi-organism hybrid-sequences and chimeras were discarded[^8]. Segments with coverage lower than 90% of the maximum coverage were trimmed from the sequences.
+Within YAP, the 454 sequencer-generated SFF files were converted into FASTA and qual files using _sffinfo_ from the Roche SFF Tools software package. After demultiplexing the sequences with mothur[^1], quality filtering of the sequences was performed using mothur’s implementation of PyroNoise[^2],[^3]. Sequences shorter than 220 bases were discarded[^4] and sequences spanning the V4 and the V5 regions of the 16S rDNA were retained. Duplicate sequences were collapsed and 454 hybrid sequences were removed with CD-HIT-454[^5a],[^6]. The sequences were then aligned against the 16S SILVA database to verify their 16S origins and to ensure that the sequences were correctly positioned on the V4 and V5 regions[^7]. Using the uchime implementation in mothur and the 16S SILVA database, multi-organism hybrid-sequences and chimeras were discarded[^8]. Segments with coverage lower than 90% of the maximum coverage were trimmed from the sequences.
 
 ###### Clustering and Taxonomic Assignment
 CD-HIT-EST, a module of the CD-HIT suite, was used to cluster the sequences at the 97% similarity level to produce operational taxonomic units (OTU)[^5b],[^9]. Taxonomical classification of the final set of reads was performed using mothur’s implementation of a naive Bayes classifier[^10] trained on a normalized RDP training dataset[^11]. Sequence counts for any given taxon were obtained by summing the cluster sizes of all OTUs that were classified as that taxon.
@@ -31,8 +31,6 @@ In the YAP workflow, high quality databases were used to a) verify the origin of
 [YAP]: https://github.com/shpakoo/YAP "Szpakowski S. YAP: A Computationally Efficient Workflow for Taxonomic Analyses of Bacterial 16S and Fungal ITS Sequences . GitHub; 2013."
 
 [Univa]: http://www.univa.com/products/grid-engine "Univa Products: Grid Engine Software for Workload Scheduling and Management."
-
-[sffinfo]: goo.gl/SHvf6e "sffinfo command from the Roche SFF Tools software package"
 
 [mothur]: http://www.mothur.org/ "mothur: open-source, platform-independent,community-supported software for describing and comparing microbial communities."
 
