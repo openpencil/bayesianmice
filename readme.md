@@ -1,1 +1,3 @@
-Bayesian models for C. albicans colonization
+
+
+##### Bayesian models of _C. albicans_ colonization.
