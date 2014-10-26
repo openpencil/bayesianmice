@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
     <!-- meta attributes -->
-    <title>Methods</title>
+    <title>Data</title>
     <meta name="author" content="Open Pencil" />
     <meta name="description" content="Bayesian modeling for C. albicans colonization.">
 
@@ -47,29 +47,135 @@ var WRInitTime=(new Date()).getTime();
   </div>
   <hr />
 
-<p><br/></p>
+<p><strong>Data</strong></p>
 
-<a name="Laboratory"></a>
-<h6>Laboratory</h6>
-
-<ul>
-<li><a href="/bayesianmice/pcr_primers.html">Primers and barcodes for 16S amplification</a><br/>
-<br/>
-
-<a name="Bioinformatics"></a>
-<h6>Bioinformatics</h6></li>
-<li><a href="/bayesianmice/yap_workflow.html">The YAP workflow for taxonomic classification</a><br/>
-<br/></li>
+<p><ul>
+ <li>
+ <ul>
+  <li>
+  <ul>
+   <li>
+   <ul>
+    <li><a href="#Data.Description">Data Description</a></li>
+    <li><a href="#Datasets">Datasets</a></li>
+    <li><a href="#References">References</a></li>
+   </ul>
+   </li>
+  </ul>
+  </li>
+ </ul>
+ </li>
 </ul>
 
+</p>
 
-<!-- - [Building an ITS Database](pages/user_site.html)
+<a name="Data.Description"></a>
+<h4>Data Description</h4>
 
-###### Statistics
-- [Bayesian Model Averaging](pages/nojekyll.html)
+<p>Characteristics of data from the mouse microbiome study. <em>C. albicans</em> colonization level was measured by counting the Colony forming units (CFU) following quantitative culture of the fecal pellets. Cytokine mRNA expression (mRNA) was measured in the terminal ileum samples. Bacterial 16S and Fungal ITS were amplified from both the terminal ileum (TI) sections and the fecal pellets (FP). These amplicons were then sequenced by 454 pyrosequencing and taxonomically classified with <a href="/bayesianmice/yap_workflow.html">a tailored bioinformatic pipeline</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.</p>
 
-###### Open source code and additional resources
-- [Resources](pages/resources.html) -->
+<a name="Datasets"></a>
+<h4>Datasets</h4>
+
+<table>
+<thead>
+<tr>
+<th> Variable/Site </th>
+<th> Original  </th>
+<th> Processed </th>
+<th> Dimension </th>
+<th> Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> <a href="/bayesianmice/assets/bayesianmice_16s_fecal_dataset_10252014JS.csv">16S/FP</a> </td>
+<td>Counts </td>
+<td> \(log\) (Relative abundances) </td>
+<td> 344 </td>
+<td> Independent</td>
+</tr>
+<tr>
+<td> <a href="/bayesianmice/assets/bayesianmice_16s_ileum_dataset_10252014JS.csv">16S/TI</a> </td>
+<td>Counts </td>
+<td> \(log\) (Relative abundances) </td>
+<td> 344 </td>
+<td> Independent</td>
+</tr>
+<tr>
+<td> <a href="/bayesianmice/assets/bayesianmice_its_fecal_dataset_10252014JS.csv">ITS/FP</a> </td>
+<td>Counts </td>
+<td> \(log\) (Relative abundances) </td>
+<td> 109 </td>
+<td> Independent</td>
+</tr>
+<tr>
+<td> <a href="/bayesianmice/assets/bayesianmice_its_ileum_dataset_10252014JS.csv">ITS/TI</a> </td>
+<td>Counts </td>
+<td> \(log\) (Relative abundances) </td>
+<td> 109 </td>
+<td> Independent</td>
+</tr>
+<tr>
+<td> <a href="/bayesianmice/assets/bayesianmice_cmrna_dataset_10252014JS.csv">mRNA/TI</a> </td>
+<td>Expression levels </td>
+<td> \(log\) (GAPDH norm.)</td>
+<td> 6 </td>
+<td> Independent</td>
+</tr>
+<tr>
+<td> <a href="/bayesianmice/assets/bayesianmice_cfu_dataset_10252014JS.csv">CFU/FP</a> </td>
+<td>Counts </td>
+<td> \(log \left( \frac{CFU}{\text{g fecal matter}}\right)\) </td>
+<td>1 </td>
+<td> Dependent</td>
+</tr>
+<tr>
+<td> Antibiotics </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td></td>
+</tr>
+<tr>
+<td> \(\pm\) <em>C. albicans</em> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td></td>
+</tr>
+<tr>
+<td>\(+\) Length Rx</td>
+<td> Categorical</td>
+<td>Indicators </td>
+<td>5 </td>
+<td>Independent</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+<p><br/></p>
+
+<a name="References"></a>
+<h4>References</h4>
+
+<!--URL-->
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Szpakowski S. YAP: A Computationally Efficient Workflow for Taxonomic Analyses of Bacterial 16S and Fungal ITS Sequences. GitHub. 2013.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
 
 
   <ul class="posts_list">

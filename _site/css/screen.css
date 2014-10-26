@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.0px helvetica, arial, clean, sans-serif;
+  font: 12.0px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: left;
 }
@@ -48,17 +48,31 @@ a:visited {
   color: #a0a;
 }
 
+/**Horizontal rules **/
+hr {
+  background-color: #eeeeee;
+  height: 2px;
+  border: 0;
+  }
+
 table {
   font-size: inherit;
   font: 100%;
-  font-family: Monaco, "Courier New", monospace;
   width:100%;
+  font-family: Monaco, "Courier New", monospace;
   vertical-align:middle;
   border:1px solid #e5e5e5;
   border-width:1px 0px 1px 0px;
   padding:10px;
   column-rule-color:#e5e5e5;
 }
+
+code.has-jax {
+  font: inherit;
+  font-size: 100%;
+  background: inherit;
+  border: inherit;
+  }
 
 /*****************************************************************************/
 /*
@@ -94,7 +108,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 42em;
+  width: 55em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }

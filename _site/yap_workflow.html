@@ -6,6 +6,24 @@
     <meta name="author" content="Open Pencil" />
     <meta name="description" content="Bayesian modeling for C. albicans colonization.">
 
+    <!-- MathJax -->
+    <script type="text/javascript"
+            src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        }
+        });
+
+    MathJax.Hub.Queue(function() {
+      var all = MathJax.Hub.getAllJax(), i;
+      for(i=0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+        });
+    </script>
+
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="/bayesianmice/css/syntax.css" type="text/css" />
 
@@ -22,8 +40,9 @@ var WRInitTime=(new Date()).getTime();
 
 <div class="site">
   <div class="title">
-    <a href="../" class="site-avatar"><img src="https://avatars3.githubusercontent.com/u/1999668?v=2&s=70" /></a>
+    <a href="..//" class="site-avatar"><img src="https://avatars3.githubusercontent.com/u/1999668?v=2&s=70" /></a>
     <a href="/bayesianmice/">bayesianmice</a>
+    <a class="extra" href="/bayesianmice/data.html">Data</a>
     <a class="extra" href="/bayesianmice/methods.html">Methods</a>
   </div>
   <hr />
@@ -69,7 +88,7 @@ var WRInitTime=(new Date()).getTime();
 <a name="Preliminary.Processing.and.Quality.Checks"></a>
 <h6>Preliminary Processing and Quality Checks</h6>
 
-<p>Within YAP, the 454 sequencer-generated SFF files were converted into FASTA and qual files using <a href="goo.gl/SHvf6e" title="sffinfo command from the Roche SFF Tools software package">sffinfo</a> from the Roche SFF Tools software package. After demultiplexing the sequences with mothur<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, quality filtering of the sequences was performed using mothur’s implementation of PyroNoise<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>,<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Sequences shorter than 220 bases were discarded<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> and sequences spanning the V4 and the V5 regions of the 16S rDNA were retained. Duplicate sequences were collapsed and 454 hybrid sequences were removed with CD-HIT-454<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup>,<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup>. The sequences were then aligned against the 16S SILVA database to verify their 16S origins and to ensure that the sequences were correctly positioned on the V4 and V5 regions<sup id="fnref:7"><a href="#fn:7" rel="footnote">7</a></sup>. Using the uchime implementation in mothur and the 16S SILVA database, multi-organism hybrid-sequences and chimeras were discarded<sup id="fnref:8"><a href="#fn:8" rel="footnote">8</a></sup>. Segments with coverage lower than 90% of the maximum coverage were trimmed from the sequences.</p>
+<p>Within YAP, the 454 sequencer-generated SFF files were converted into FASTA and qual files using <em>sffinfo</em> from the Roche SFF Tools software package. After demultiplexing the sequences with mothur<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, quality filtering of the sequences was performed using mothur’s implementation of PyroNoise<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>,<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>. Sequences shorter than 220 bases were discarded<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> and sequences spanning the V4 and the V5 regions of the 16S rDNA were retained. Duplicate sequences were collapsed and 454 hybrid sequences were removed with CD-HIT-454<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup>,<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup>. The sequences were then aligned against the 16S SILVA database to verify their 16S origins and to ensure that the sequences were correctly positioned on the V4 and V5 regions<sup id="fnref:7"><a href="#fn:7" rel="footnote">7</a></sup>. Using the uchime implementation in mothur and the 16S SILVA database, multi-organism hybrid-sequences and chimeras were discarded<sup id="fnref:8"><a href="#fn:8" rel="footnote">8</a></sup>. Segments with coverage lower than 90% of the maximum coverage were trimmed from the sequences.</p>
 
 <a name="Clustering.and.Taxonomic.Assignment"></a>
 <h6>Clustering and Taxonomic Assignment</h6>

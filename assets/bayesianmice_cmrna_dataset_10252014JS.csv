@@ -1,0 +1,529 @@
+sample,day,mouse,treatment_group,run,cytokine,log(mRNA expression (Normalized))
+m2_ileum_mucosa_psg_r2_7d,Day  7,m2,psg,r2,IL21,-11.99173899
+m5_ileum_mucosa_flu_r2_7d,Day 21,m5,flu,r2,IL21,-9.918103852
+m1_ileum_mucosa_van_r5_7d,Day  7,m1,van,r5,IL21,-12.41890949
+m3_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m3,control,r4,IL21,-9.446996052
+m4_ileum_mucosa_amp_r2_7d,Day 21,m4,amp,r2,IL21,-8.606773319
+m2_ileum_mucosa_van_r6_7d,Day  7,m2,van,r6,IL21,-9.616078017
+m3_ileum_mucosa_amp_r2_7d,Day 21,m3,amp,r2,IL21,-9.882162555
+m4_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m4,van,r6,IL21,-12.48014114
+m3_ileum_mucosa_psg_r2_7d,Day  7,m3,psg,r2,IL21,-10.85529666
+m2_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m2,van,r5,IL21,-10.35076577
+m1_ileum_mucosa_van_r6_7d_bioltechrep,Day  7,m1,van,r6,IL21,-13.60818749
+m4_ileum_mucosa_flu_r2_7d,Day 21,m4,flu,r2,IL21,-8.913485499
+m3_ileum_mucosa_van_r4_7d_biolrep,Day  7,m3,van,r4,IL21,-12.67344614
+m1_ileum_mucosa_control_r4_7d_biolrep,Day  7,m1,control,r4,IL21,-10.62207563
+m4_ileum_mucosa_control_r6_21d,Day 21,m4,control,r6,IL21,-6.82612921
+m2_ileum_mucosa_psg_r6_7d,Day  7,m2,psg,r6,IL21,-5.59731657
+m5_ileum_mucosa_van_r2_7d,Day  7,m5,van,r2,IL21,-9.919228798
+m3_ileum_mucosa_psg_r6_21d,Day 21,m3,psg,r6,IL21,-13.18970583
+m2_ileum_mucosa_psg_r5_7d,Day  7,m2,psg,r5,IL21,-13.23282577
+m3_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m3,psg,r4,IL21,-11.62610648
+m1_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m1,van,r5,IL21,-10.77891469
+m1_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m1,control,r5,IL21,-8.366555819
+m3_ileum_mucosa_psg_r6_7d,Day  7,m3,psg,r6,IL21,-8.517368207
+m3_ileum_mucosa_psg_r5_7d,Day  7,m3,psg,r5,IL21,-14.79962788
+m2_ileum_mucosa_control_r6_21d,Day 21,m2,control,r6,IL21,-8.342437685
+m4_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m4,van,r4,IL21,-12.48014114
+m1_ileum_mucosa_control_r5_7d,Day  7,m1,control,r5,IL21,-11.02012126
+m3_ileum_mucosa_van_r2_7d,Day  7,m3,van,r2,IL21,-9.675858078
+m1_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m1,psg,r4,IL21,-12.95870235
+m2_ileum_mucosa_van_r6_21d,Day 21,m2,van,r6,IL21,-11.88018335
+m4_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m4,psg,r4,IL21,-12.26904013
+m1_ileum_mucosa_van_r4_7d_biolrep,Day  7,m1,van,r4,IL21,-13.60818749
+m1_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m1,van,r6,IL21,-12.76901998
+m2_ileum_mucosa_van_r5_7d,Day  7,m2,van,r5,IL21,-12.85720686
+m1_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m1,psg,r6,IL21,-12.95870235
+m2_ileum_mucosa_control_r4_7d_biolrep,Day  7,m2,control,r4,IL21,-10.97098497
+m3_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m3,van,r5,IL21,-13.68231797
+m4_ileum_mucosa_control_r2_7d,Day  7,m4,control,r2,IL21,-9.110404543
+m1_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m1,van,r4,IL21,-12.76901998
+m1_ileum_mucosa_control_r2_7d,Day  7,m1,control,r2,IL21,-9.536260281
+m3_ileum_mucosa_control_r5_7d,Day  7,m3,control,r5,IL21,-11.83812251
+m3_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m3,psg,r5,IL21,-13.01560983
+m4_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m4,psg,r6,IL21,-12.26904013
+m1_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m1,psg,r5,IL21,-13.16514563
+m4_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m4,control,r4,IL21,-9.675858078
+m1_ileum_mucosa_amp_r2_7d,Day 21,m1,amp,r2,IL21,-9.613119092
+m2_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m2,psg,r4,IL21,-13.25516932
+m3_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m3,psg,r4,IL21,-14.22566163
+m4_ileum_mucosa_psg_r2_7d,Day  7,m4,psg,r2,IL21,-10.23711304
+m1_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m1,control,r4,IL21,-8.745575441
+m5_ileum_mucosa_psg_r2_7d,Day  7,m5,psg,r2,IL21,-11.83111623
+m2_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m2,psg,r5,IL21,-11.90187865
+m1_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m1,psg,r4,IL21,-12.48611464
+m4_ileum_mucosa_control_r6_7d,Day  7,m4,control,r6,IL21,-5.921222323
+m2_ileum_mucosa_control_r5_7d,Day  7,m2,control,r5,IL21,-10.70373009
+m5_ileum_mucosa_control_r2_7d,Day  7,m5,control,r2,IL21,-7.904410437
+m1_ileum_mucosa_flu_r2_7d,Day 21,m1,flu,r2,IL21,-9.921061066
+m4_ileum_mucosa_van_r6_7d,Day  7,m4,van,r6,IL21,-10.67486009
+m4_ileum_mucosa_psg_r6_21d,Day 21,m4,psg,r6,IL21,-9.583146206
+m1_ileum_mucosa_van_r2_7d,Day  7,m1,van,r2,IL21,-11.70124256
+m1_ileum_mucosa_control_r6_21d_bioltechrep,Day 21 (C. albicans),m1,control,r6,IL21,-8.745575441
+m2_ileum_mucosa_flu_r2_7d,Day 21,m2,flu,r2,IL21,-11.08102617
+m2_ileum_mucosa_van_r4_7d_biolrep,Day  7,m2,van,r4,IL21,-12.83622249
+m2_ileum_mucosa_control_r2_7d,Day  7,m2,control,r2,IL21,-9.387289984
+m3_ileum_mucosa_control_r6_7d,Day  7,m3,control,r6,IL21,-6.107796137
+m1_ileum_mucosa_psg_r2_7d,Day  7,m1,psg,r2,IL21,-11.96452038
+m3_ileum_mucosa_van_r5_7d,Day  7,m3,van,r5,IL21,-12.45969602
+m2_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m2,control,r5,IL21,-7.877467885
+m3_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m3,psg,r6,IL21,-14.22566163
+m2_ileum_mucosa_amp_r2_7d,Day 21,m2,amp,r2,IL21,-9.694670132
+m3_ileum_mucosa_control_r6_21d,Day 21,m3,control,r6,IL21,-7.290388529
+m4_ileum_mucosa_van_r6_21d,Day 21,m4,van,r6,IL21,-11.41149767
+m3_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m3,psg,r6,IL21,-11.62610648
+m4_ileum_mucosa_van_r2_7d,Day  7,m4,van,r2,IL21,-7.198344239
+m3_ileum_mucosa_van_r6_21d,Day 21,m3,van,r6,IL21,-11.71112034
+m2_ileum_mucosa_control_r6_7d,Day  7,m2,control,r6,IL21,-6.936401698
+m1_ileum_mucosa_psg_r5_7d,Day  7,m1,psg,r5,IL21,-13.96944876
+m3_ileum_mucosa_van_r6_7d,Day  7,m3,van,r6,IL21,-5.966420777
+m3_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m3,van,r6,IL21,-8.535907211
+m3_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m3,control,r5,IL21,-7.599090103
+m3_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m3,van,r4,IL21,-8.535907211
+m4_ileum_mucosa_psg_r6_7d,Day  7,m4,psg,r6,IL21,-8.592930182
+m2_ileum_mucosa_psg_r6_21d,Day 21,m2,psg,r6,IL21,-9.223026502
+m2_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m2,psg,r6,IL21,-13.25516932
+m3_ileum_mucosa_control_r4_7d_biolrep,Day  7,m3,control,r4,IL21,-11.16430588
+m3_ileum_mucosa_flu_r2_7d,Day 21,m3,flu,r2,IL21,-8.47690574
+m2_ileum_mucosa_van_r2_7d,Day  7,m2,van,r2,IL21,-10.42071697
+m3_ileum_mucosa_control_r2_7d,Day  7,m3,control,r2,IL21,-9.648584903
+m2_ileum_mucosa_psg_r2_7d,Day  7,m2,psg,r2,IL22,-4.642406948
+m5_ileum_mucosa_flu_r2_7d,Day 21,m5,flu,r2,IL22,-5.488601743
+m1_ileum_mucosa_van_r5_7d,Day  7,m1,van,r5,IL22,-12.37720741
+m3_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m3,control,r4,IL22,-6.885064669
+m4_ileum_mucosa_amp_r2_7d,Day 21,m4,amp,r2,IL22,-7.499635511
+m2_ileum_mucosa_van_r6_7d,Day  7,m2,van,r6,IL22,-7.937136325
+m3_ileum_mucosa_amp_r2_7d,Day 21,m3,amp,r2,IL22,-5.488601743
+m4_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m4,van,r6,IL22,-11.12537317
+m3_ileum_mucosa_psg_r2_7d,Day  7,m3,psg,r2,IL22,-7.603323388
+m2_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m2,van,r5,IL22,-11.91983712
+m1_ileum_mucosa_van_r6_7d_bioltechrep,Day  7,m1,van,r6,IL22,-9.554434784
+m4_ileum_mucosa_flu_r2_7d,Day 21,m4,flu,r2,IL22,-4.057904635
+m3_ileum_mucosa_van_r4_7d_biolrep,Day  7,m3,van,r4,IL22,-11.59346113
+m1_ileum_mucosa_control_r4_7d_biolrep,Day  7,m1,control,r4,IL22,-6.309913778
+m4_ileum_mucosa_control_r6_21d,Day 21,m4,control,r6,IL22,-5.654666649
+m2_ileum_mucosa_psg_r6_7d,Day  7,m2,psg,r6,IL22,-4.642406948
+m5_ileum_mucosa_van_r2_7d,Day  7,m5,van,r2,IL22,-9.318265284
+m3_ileum_mucosa_psg_r6_21d,Day 21,m3,psg,r6,IL22,-10.40637146
+m2_ileum_mucosa_psg_r5_7d,Day  7,m2,psg,r5,IL22,-13.50372629
+m3_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m3,psg,r4,IL22,-10.99704066
+m1_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m1,van,r5,IL22,-11.08451887
+m1_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m1,control,r5,IL22,-7.499635511
+m3_ileum_mucosa_psg_r6_7d,Day  7,m3,psg,r6,IL22,-7.603323388
+m3_ileum_mucosa_psg_r5_7d,Day  7,m3,psg,r5,IL22,-13.31271307
+m2_ileum_mucosa_control_r6_21d,Day 21,m2,control,r6,IL22,-5.950733437
+m4_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m4,van,r4,IL22,-11.12537317
+m1_ileum_mucosa_control_r5_7d,Day  7,m1,control,r5,IL22,-10.20292377
+m3_ileum_mucosa_van_r2_7d,Day  7,m3,van,r2,IL22,-5.437997912
+m1_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m1,psg,r4,IL22,-9.677870263
+m2_ileum_mucosa_van_r6_21d,Day 21,m2,van,r6,IL22,-9.430902259
+m4_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m4,psg,r4,IL22,-12.97463758
+m1_ileum_mucosa_van_r4_7d_biolrep,Day  7,m1,van,r4,IL22,-9.554434784
+m1_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m1,van,r6,IL22,-12.20350993
+m2_ileum_mucosa_van_r5_7d,Day  7,m2,van,r5,IL22,-13.31546887
+m1_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m1,psg,r6,IL22,-9.677870263
+m2_ileum_mucosa_control_r4_7d_biolrep,Day  7,m2,control,r4,IL22,-6.404292696
+m3_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m3,van,r5,IL22,-11.04903423
+m4_ileum_mucosa_control_r2_7d,Day  7,m4,control,r2,IL22,-4.057904635
+m1_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m1,van,r4,IL22,-12.20350993
+m1_ileum_mucosa_control_r2_7d,Day  7,m1,control,r2,IL22,-5.488601743
+m3_ileum_mucosa_control_r5_7d,Day  7,m3,control,r5,IL22,-8.584220139
+m3_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m3,psg,r5,IL22,-11.22850621
+m4_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m4,psg,r6,IL22,-12.97463758
+m1_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m1,psg,r5,IL22,-12.07884634
+m4_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m4,control,r4,IL22,-7.981758861
+m1_ileum_mucosa_amp_r2_7d,Day 21,m1,amp,r2,IL22,-5.488601743
+m2_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m2,psg,r4,IL22,-12.48696449
+m3_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m3,psg,r4,IL22,-10.97369899
+m4_ileum_mucosa_psg_r2_7d,Day  7,m4,psg,r2,IL22,-7.852499499
+m1_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m1,control,r4,IL22,-6.667243434
+m5_ileum_mucosa_psg_r2_7d,Day  7,m5,psg,r2,IL22,-5.376045422
+m2_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m2,psg,r5,IL22,-11.76954307
+m1_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m1,psg,r4,IL22,-11.83787613
+m4_ileum_mucosa_control_r6_7d,Day  7,m4,control,r6,IL22,-4.057904635
+m2_ileum_mucosa_control_r5_7d,Day  7,m2,control,r5,IL22,-10.18363012
+m5_ileum_mucosa_control_r2_7d,Day  7,m5,control,r2,IL22,-3.315166485
+m1_ileum_mucosa_flu_r2_7d,Day 21,m1,flu,r2,IL22,-5.488601743
+m4_ileum_mucosa_van_r6_7d,Day  7,m4,van,r6,IL22,-10.14744624
+m4_ileum_mucosa_psg_r6_21d,Day 21,m4,psg,r6,IL22,-8.281873967
+m1_ileum_mucosa_van_r2_7d,Day  7,m1,van,r2,IL22,-7.19568805
+m1_ileum_mucosa_control_r6_21d_bioltechrep,Day 21 (C. albicans),m1,control,r6,IL22,-6.667243434
+m2_ileum_mucosa_flu_r2_7d,Day 21,m2,flu,r2,IL22,-6.494118627
+m2_ileum_mucosa_van_r4_7d_biolrep,Day  7,m2,van,r4,IL22,-10.37867258
+m2_ileum_mucosa_control_r2_7d,Day  7,m2,control,r2,IL22,-5.15597441
+m3_ileum_mucosa_control_r6_7d,Day  7,m3,control,r6,IL22,-5.203378165
+m1_ileum_mucosa_psg_r2_7d,Day  7,m1,psg,r2,IL22,-9.25764479
+m3_ileum_mucosa_van_r5_7d,Day  7,m3,van,r5,IL22,-13.07554182
+m2_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m2,control,r5,IL22,-7.644812551
+m3_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m3,psg,r6,IL22,-10.97369899
+m2_ileum_mucosa_amp_r2_7d,Day 21,m2,amp,r2,IL22,-5.203378165
+m3_ileum_mucosa_control_r6_21d,Day 21,m3,control,r6,IL22,-6.161977698
+m4_ileum_mucosa_van_r6_21d,Day 21,m4,van,r6,IL22,-11.88810776
+m3_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m3,psg,r6,IL22,-10.99704066
+m4_ileum_mucosa_van_r2_7d,Day  7,m4,van,r2,IL22,-10.14744624
+m3_ileum_mucosa_van_r6_21d,Day 21,m3,van,r6,IL22,-10.4209317
+m2_ileum_mucosa_control_r6_7d,Day  7,m2,control,r6,IL22,-5.15597441
+m1_ileum_mucosa_psg_r5_7d,Day  7,m1,psg,r5,IL22,-11.69492947
+m3_ileum_mucosa_van_r6_7d,Day  7,m3,van,r6,IL22,-5.437997912
+m3_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m3,van,r6,IL22,-10.26635017
+m3_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m3,control,r5,IL22,-7.550450819
+m3_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m3,van,r4,IL22,-10.26635017
+m4_ileum_mucosa_psg_r6_7d,Day  7,m4,psg,r6,IL22,-7.852499499
+m2_ileum_mucosa_psg_r6_21d,Day 21,m2,psg,r6,IL22,-9.064112423
+m2_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m2,psg,r6,IL22,-12.48696449
+m3_ileum_mucosa_control_r4_7d_biolrep,Day  7,m3,control,r4,IL22,-6.631131626
+m3_ileum_mucosa_flu_r2_7d,Day 21,m3,flu,r2,IL22,-5.488601743
+m2_ileum_mucosa_van_r2_7d,Day  7,m2,van,r2,IL22,-7.937136325
+m3_ileum_mucosa_control_r2_7d,Day  7,m3,control,r2,IL22,-5.203378165
+m2_ileum_mucosa_psg_r2_7d,Day  7,m2,psg,r2,IL17A,-10.1765648
+m5_ileum_mucosa_flu_r2_7d,Day 21,m5,flu,r2,IL17A,-7.977742211
+m1_ileum_mucosa_van_r5_7d,Day  7,m1,van,r5,IL17A,-11.80703616
+m3_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m3,control,r4,IL17A,-8.442150656
+m4_ileum_mucosa_amp_r2_7d,Day 21,m4,amp,r2,IL17A,-7.944277667
+m2_ileum_mucosa_van_r6_7d,Day  7,m2,van,r6,IL17A,-9.767367015
+m3_ileum_mucosa_amp_r2_7d,Day 21,m3,amp,r2,IL17A,-7.891928784
+m4_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m4,van,r6,IL17A,-12.41948124
+m3_ileum_mucosa_psg_r2_7d,Day  7,m3,psg,r2,IL17A,-9.661939999
+m2_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m2,van,r5,IL17A,-11.13887535
+m1_ileum_mucosa_van_r6_7d_bioltechrep,Day  7,m1,van,r6,IL17A,-11.37728505
+m4_ileum_mucosa_flu_r2_7d,Day 21,m4,flu,r2,IL17A,-7.473778299
+m3_ileum_mucosa_van_r4_7d_biolrep,Day  7,m3,van,r4,IL17A,-11.00365906
+m1_ileum_mucosa_control_r4_7d_biolrep,Day  7,m1,control,r4,IL17A,-9.284876436
+m4_ileum_mucosa_control_r6_21d,Day 21,m4,control,r6,IL17A,-6.101158885
+m2_ileum_mucosa_psg_r6_7d,Day  7,m2,psg,r6,IL17A,-6.101158885
+m5_ileum_mucosa_van_r2_7d,Day  7,m5,van,r2,IL17A,-9.554800225
+m3_ileum_mucosa_psg_r6_21d,Day 21,m3,psg,r6,IL17A,-11.03840082
+m2_ileum_mucosa_psg_r5_7d,Day  7,m2,psg,r5,IL17A,-13.80956825
+m3_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m3,psg,r4,IL17A,-12.33890485
+m1_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m1,van,r5,IL17A,-11.57193265
+m1_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m1,control,r5,IL17A,-7.402610773
+m3_ileum_mucosa_psg_r6_7d,Day  7,m3,psg,r6,IL17A,-9.00823513
+m3_ileum_mucosa_psg_r5_7d,Day  7,m3,psg,r5,IL17A,-14.11420774
+m2_ileum_mucosa_control_r6_21d,Day 21,m2,control,r6,IL17A,-7.473778299
+m4_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m4,van,r4,IL17A,-12.41948124
+m1_ileum_mucosa_control_r5_7d,Day  7,m1,control,r5,IL17A,-10.32541441
+m3_ileum_mucosa_van_r2_7d,Day  7,m3,van,r2,IL17A,-7.977742211
+m1_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m1,psg,r4,IL17A,-11.03840082
+m2_ileum_mucosa_van_r6_21d,Day 21,m2,van,r6,IL17A,-9.825908184
+m4_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m4,psg,r4,IL17A,-11.47219627
+m1_ileum_mucosa_van_r4_7d_biolrep,Day  7,m1,van,r4,IL17A,-11.37728505
+m1_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m1,van,r6,IL17A,-11.78778608
+m2_ileum_mucosa_van_r5_7d,Day  7,m2,van,r5,IL17A,-12.29760696
+m1_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m1,psg,r6,IL17A,-11.03840082
+m2_ileum_mucosa_control_r4_7d_biolrep,Day  7,m2,control,r4,IL17A,-9.516826131
+m3_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m3,van,r5,IL17A,-12.18165324
+m4_ileum_mucosa_control_r2_7d,Day  7,m4,control,r2,IL17A,-7.539790427
+m1_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m1,van,r4,IL17A,-11.78778608
+m1_ileum_mucosa_control_r2_7d,Day  7,m1,control,r2,IL17A,-7.945256476
+m3_ileum_mucosa_control_r5_7d,Day  7,m3,control,r5,IL17A,-10.70524943
+m3_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m3,psg,r5,IL17A,-11.62191255
+m4_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m4,psg,r6,IL17A,-11.47219627
+m1_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m1,psg,r5,IL17A,-11.97539594
+m4_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m4,control,r4,IL17A,-8.29350179
+m1_ileum_mucosa_amp_r2_7d,Day 21,m1,amp,r2,IL17A,-8.144085999
+m2_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m2,psg,r4,IL17A,-10.96987469
+m3_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m3,psg,r4,IL17A,-11.42694045
+m4_ileum_mucosa_psg_r2_7d,Day  7,m4,psg,r2,IL17A,-9.27780263
+m1_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m1,control,r4,IL17A,-7.943466011
+m5_ileum_mucosa_psg_r2_7d,Day  7,m5,psg,r2,IL17A,-9.767367015
+m2_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m2,psg,r5,IL17A,-12.35723745
+m1_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m1,psg,r4,IL17A,-11.81045453
+m4_ileum_mucosa_control_r6_7d,Day  7,m4,control,r6,IL17A,-6.101158885
+m2_ileum_mucosa_control_r5_7d,Day  7,m2,control,r5,IL17A,-10.03922251
+m5_ileum_mucosa_control_r2_7d,Day  7,m5,control,r2,IL17A,-6.101158885
+m1_ileum_mucosa_flu_r2_7d,Day 21,m1,flu,r2,IL17A,-7.961754688
+m4_ileum_mucosa_van_r6_7d,Day  7,m4,van,r6,IL17A,-11.355404
+m4_ileum_mucosa_psg_r6_21d,Day 21,m4,psg,r6,IL17A,-8.179414933
+m1_ileum_mucosa_van_r2_7d,Day  7,m1,van,r2,IL17A,-9.825908184
+m1_ileum_mucosa_control_r6_21d_bioltechrep,Day 21 (C. albicans),m1,control,r6,IL17A,-7.943466011
+m2_ileum_mucosa_flu_r2_7d,Day 21,m2,flu,r2,IL17A,-8.731593824
+m2_ileum_mucosa_van_r4_7d_biolrep,Day  7,m2,van,r4,IL17A,-11.34595446
+m2_ileum_mucosa_control_r2_7d,Day  7,m2,control,r2,IL17A,-8.238751177
+m3_ileum_mucosa_control_r6_7d,Day  7,m3,control,r6,IL17A,-6.101158885
+m1_ileum_mucosa_psg_r2_7d,Day  7,m1,psg,r2,IL17A,-10.07697703
+m3_ileum_mucosa_van_r5_7d,Day  7,m3,van,r5,IL17A,-12.15216986
+m2_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m2,control,r5,IL17A,-8.065328075
+m3_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m3,psg,r6,IL17A,-11.42694045
+m2_ileum_mucosa_amp_r2_7d,Day 21,m2,amp,r2,IL17A,-7.712093272
+m3_ileum_mucosa_control_r6_21d,Day 21,m3,control,r6,IL17A,-6.101158885
+m4_ileum_mucosa_van_r6_21d,Day 21,m4,van,r6,IL17A,-10.07697703
+m3_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m3,psg,r6,IL17A,-12.33890485
+m4_ileum_mucosa_van_r2_7d,Day  7,m4,van,r2,IL17A,-9.245371872
+m3_ileum_mucosa_van_r6_21d,Day 21,m3,van,r6,IL17A,-10.32541441
+m2_ileum_mucosa_control_r6_7d,Day  7,m2,control,r6,IL17A,-7.473778299
+m1_ileum_mucosa_psg_r5_7d,Day  7,m1,psg,r5,IL17A,-13.23646196
+m3_ileum_mucosa_van_r6_7d,Day  7,m3,van,r6,IL17A,-7.473778299
+m3_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m3,van,r6,IL17A,-9.670222596
+m3_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m3,control,r5,IL17A,-7.910099665
+m3_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m3,van,r4,IL17A,-9.670222596
+m4_ileum_mucosa_psg_r6_7d,Day  7,m4,psg,r6,IL17A,-8.731593824
+m2_ileum_mucosa_psg_r6_21d,Day 21,m2,psg,r6,IL17A,-8.442150656
+m2_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m2,psg,r6,IL17A,-10.96987469
+m3_ileum_mucosa_control_r4_7d_biolrep,Day  7,m3,control,r4,IL17A,-9.538913886
+m3_ileum_mucosa_flu_r2_7d,Day 21,m3,flu,r2,IL17A,-7.408881428
+m2_ileum_mucosa_van_r2_7d,Day  7,m2,van,r2,IL17A,-9.571492466
+m3_ileum_mucosa_control_r2_7d,Day  7,m3,control,r2,IL17A,-8.175694324
+m2_ileum_mucosa_psg_r2_7d,Day  7,m2,psg,r2,IFN,-7.623041735
+m5_ileum_mucosa_flu_r2_7d,Day 21,m5,flu,r2,IFN,-7.136955887
+m1_ileum_mucosa_van_r5_7d,Day  7,m1,van,r5,IFN,-8.089236265
+m3_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m3,control,r4,IFN,-7.626021313
+m4_ileum_mucosa_amp_r2_7d,Day 21,m4,amp,r2,IFN,-6.844236027
+m2_ileum_mucosa_van_r6_7d,Day  7,m2,van,r6,IFN,-8.604533713
+m3_ileum_mucosa_amp_r2_7d,Day 21,m3,amp,r2,IFN,-7.027782832
+m4_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m4,van,r6,IFN,-9.544077552
+m3_ileum_mucosa_psg_r2_7d,Day  7,m3,psg,r2,IFN,-7.877130382
+m2_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m2,van,r5,IFN,-6.86981423
+m1_ileum_mucosa_van_r6_7d_bioltechrep,Day  7,m1,van,r6,IFN,-9.323038856
+m4_ileum_mucosa_flu_r2_7d,Day 21,m4,flu,r2,IFN,-6.614906577
+m3_ileum_mucosa_van_r4_7d_biolrep,Day  7,m3,van,r4,IFN,-9.222301623
+m1_ileum_mucosa_control_r4_7d_biolrep,Day  7,m1,control,r4,IFN,-7.855144598
+m4_ileum_mucosa_control_r6_21d,Day 21,m4,control,r6,IFN,-2.251302799
+m2_ileum_mucosa_psg_r6_7d,Day  7,m2,psg,r6,IFN,-9.068398199
+m5_ileum_mucosa_van_r2_7d,Day  7,m5,van,r2,IFN,-7.266634078
+m3_ileum_mucosa_psg_r6_21d,Day 21,m3,psg,r6,IFN,-5.998287772
+m2_ileum_mucosa_psg_r5_7d,Day  7,m2,psg,r5,IFN,-8.423525268
+m3_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m3,psg,r4,IFN,-9.866810456
+m1_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m1,van,r5,IFN,-7.408592619
+m1_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m1,control,r5,IFN,-6.58455646
+m3_ileum_mucosa_psg_r6_7d,Day  7,m3,psg,r6,IFN,-9.688572966
+m3_ileum_mucosa_psg_r5_7d,Day  7,m3,psg,r5,IFN,-9.440448117
+m2_ileum_mucosa_control_r6_21d,Day 21,m2,control,r6,IFN,-3.43903633
+m4_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m4,van,r4,IFN,-9.544077552
+m1_ileum_mucosa_control_r5_7d,Day  7,m1,control,r5,IFN,-6.833009653
+m3_ileum_mucosa_van_r2_7d,Day  7,m3,van,r2,IFN,-7.674346652
+m1_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m1,psg,r4,IFN,-8.869989951
+m2_ileum_mucosa_van_r6_21d,Day 21,m2,van,r6,IFN,-4.549167996
+m4_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m4,psg,r4,IFN,-9.502375907
+m1_ileum_mucosa_van_r4_7d_biolrep,Day  7,m1,van,r4,IFN,-9.323038856
+m1_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m1,van,r6,IFN,-9.835763486
+m2_ileum_mucosa_van_r5_7d,Day  7,m2,van,r5,IFN,-8.281453308
+m1_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m1,psg,r6,IFN,-8.869989951
+m2_ileum_mucosa_control_r4_7d_biolrep,Day  7,m2,control,r4,IFN,-8.254552042
+m3_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m3,van,r5,IFN,-6.773836461
+m4_ileum_mucosa_control_r2_7d,Day  7,m4,control,r2,IFN,-7.674346652
+m1_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m1,van,r4,IFN,-9.835763486
+m1_ileum_mucosa_control_r2_7d,Day  7,m1,control,r2,IFN,-6.376932929
+m3_ileum_mucosa_control_r5_7d,Day  7,m3,control,r5,IFN,-7.137839108
+m3_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m3,psg,r5,IFN,-7.213495421
+m4_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m4,psg,r6,IFN,-9.502375907
+m1_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m1,psg,r5,IFN,-7.356022466
+m4_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m4,control,r4,IFN,-7.644235939
+m1_ileum_mucosa_amp_r2_7d,Day 21,m1,amp,r2,IFN,-6.681073993
+m2_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m2,psg,r4,IFN,-8.956016034
+m3_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m3,psg,r4,IFN,-8.795823026
+m4_ileum_mucosa_psg_r2_7d,Day  7,m4,psg,r2,IFN,-7.745930544
+m1_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m1,control,r4,IFN,-7.555309783
+m5_ileum_mucosa_psg_r2_7d,Day  7,m5,psg,r2,IFN,-8.493130045
+m2_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m2,psg,r5,IFN,-7.928340428
+m1_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m1,psg,r4,IFN,-9.641292533
+m4_ileum_mucosa_control_r6_7d,Day  7,m4,control,r6,IFN,-7.175930193
+m2_ileum_mucosa_control_r5_7d,Day  7,m2,control,r5,IFN,-7.158187811
+m5_ileum_mucosa_control_r2_7d,Day  7,m5,control,r2,IFN,-5.201775219
+m1_ileum_mucosa_flu_r2_7d,Day 21,m1,flu,r2,IFN,-6.742028999
+m4_ileum_mucosa_van_r6_7d,Day  7,m4,van,r6,IFN,-8.551194748
+m4_ileum_mucosa_psg_r6_21d,Day 21,m4,psg,r6,IFN,-4.505469658
+m1_ileum_mucosa_van_r2_7d,Day  7,m1,van,r2,IFN,-7.744241793
+m1_ileum_mucosa_control_r6_21d_bioltechrep,Day 21 (C. albicans),m1,control,r6,IFN,-7.555309783
+m2_ileum_mucosa_flu_r2_7d,Day 21,m2,flu,r2,IFN,-6.996084979
+m2_ileum_mucosa_van_r4_7d_biolrep,Day  7,m2,van,r4,IFN,-9.540655801
+m2_ileum_mucosa_control_r2_7d,Day  7,m2,control,r2,IFN,-6.421281776
+m3_ileum_mucosa_control_r6_7d,Day  7,m3,control,r6,IFN,-7.741229462
+m1_ileum_mucosa_psg_r2_7d,Day  7,m1,psg,r2,IFN,-7.44569177
+m3_ileum_mucosa_van_r5_7d,Day  7,m3,van,r5,IFN,-8.237306424
+m2_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m2,control,r5,IFN,-5.659714873
+m3_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m3,psg,r6,IFN,-8.795823026
+m2_ileum_mucosa_amp_r2_7d,Day 21,m2,amp,r2,IFN,-6.765093198
+m3_ileum_mucosa_control_r6_21d,Day 21,m3,control,r6,IFN,-3.597084537
+m4_ileum_mucosa_van_r6_21d,Day 21,m4,van,r6,IFN,-5.203812966
+m3_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m3,psg,r6,IFN,-9.866810456
+m4_ileum_mucosa_van_r2_7d,Day  7,m4,van,r2,IFN,-7.679205681
+m3_ileum_mucosa_van_r6_21d,Day 21,m3,van,r6,IFN,-5.322655142
+m2_ileum_mucosa_control_r6_7d,Day  7,m2,control,r6,IFN,-8.020565888
+m1_ileum_mucosa_psg_r5_7d,Day  7,m1,psg,r5,IFN,-8.780891846
+m3_ileum_mucosa_van_r6_7d,Day  7,m3,van,r6,IFN,-8.730677296
+m3_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m3,van,r6,IFN,-9.641077135
+m3_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m3,control,r5,IFN,-5.804619902
+m3_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m3,van,r4,IFN,-9.641077135
+m4_ileum_mucosa_psg_r6_7d,Day  7,m4,psg,r6,IFN,-9.198619333
+m2_ileum_mucosa_psg_r6_21d,Day 21,m2,psg,r6,IFN,-4.579327016
+m2_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m2,psg,r6,IFN,-8.956016034
+m3_ileum_mucosa_control_r4_7d_biolrep,Day  7,m3,control,r4,IFN,-8.285224695
+m3_ileum_mucosa_flu_r2_7d,Day 21,m3,flu,r2,IFN,-6.855314643
+m2_ileum_mucosa_van_r2_7d,Day  7,m2,van,r2,IFN,-7.135543349
+m3_ileum_mucosa_control_r2_7d,Day  7,m3,control,r2,IFN,-6.705712798
+m2_ileum_mucosa_psg_r2_7d,Day  7,m2,psg,r2,TNF,-8.400112625
+m5_ileum_mucosa_flu_r2_7d,Day 21,m5,flu,r2,TNF,-7.731054426
+m1_ileum_mucosa_van_r5_7d,Day  7,m1,van,r5,TNF,-12.74126269
+m3_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m3,control,r4,TNF,-10.72354126
+m4_ileum_mucosa_amp_r2_7d,Day 21,m4,amp,r2,TNF,-7.057038657
+m2_ileum_mucosa_van_r6_7d,Day  7,m2,van,r6,TNF,-7.797620754
+m3_ileum_mucosa_amp_r2_7d,Day 21,m3,amp,r2,TNF,-7.146251075
+m4_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m4,van,r6,TNF,-9.244182615
+m3_ileum_mucosa_psg_r2_7d,Day  7,m3,psg,r2,TNF,-8.114027391
+m2_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m2,van,r5,TNF,-10.2267968
+m1_ileum_mucosa_van_r6_7d_bioltechrep,Day  7,m1,van,r6,TNF,-13.00623059
+m4_ileum_mucosa_flu_r2_7d,Day 21,m4,flu,r2,TNF,-7.601014466
+m3_ileum_mucosa_van_r4_7d_biolrep,Day  7,m3,van,r4,TNF,-12.63465491
+m1_ileum_mucosa_control_r4_7d_biolrep,Day  7,m1,control,r4,TNF,-11.3433346
+m4_ileum_mucosa_control_r6_21d,Day 21,m4,control,r6,TNF,-9.69139686
+m2_ileum_mucosa_psg_r6_7d,Day  7,m2,psg,r6,TNF,-5.964417635
+m5_ileum_mucosa_van_r2_7d,Day  7,m5,van,r2,TNF,-6.732920008
+m3_ileum_mucosa_psg_r6_21d,Day 21,m3,psg,r6,TNF,-11.4319724
+m2_ileum_mucosa_psg_r5_7d,Day  7,m2,psg,r5,TNF,-13.7773096
+m3_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m3,psg,r4,TNF,-11.65927697
+m1_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m1,van,r5,TNF,-11.15761045
+m1_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m1,control,r5,TNF,-9.929168503
+m3_ileum_mucosa_psg_r6_7d,Day  7,m3,psg,r6,TNF,-8.549303245
+m3_ileum_mucosa_psg_r5_7d,Day  7,m3,psg,r5,TNF,-14.04317557
+m2_ileum_mucosa_control_r6_21d,Day 21,m2,control,r6,TNF,-10.04961219
+m4_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m4,van,r4,TNF,-9.244182615
+m1_ileum_mucosa_control_r5_7d,Day  7,m1,control,r5,TNF,-12.12940424
+m3_ileum_mucosa_van_r2_7d,Day  7,m3,van,r2,TNF,-1.517994289
+m1_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m1,psg,r4,TNF,-12.38500316
+m2_ileum_mucosa_van_r6_21d,Day 21,m2,van,r6,TNF,-10.9577366
+m4_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m4,psg,r4,TNF,-12.47425017
+m1_ileum_mucosa_van_r4_7d_biolrep,Day  7,m1,van,r4,TNF,-13.00623059
+m1_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m1,van,r6,TNF,-11.4701917
+m2_ileum_mucosa_van_r5_7d,Day  7,m2,van,r5,TNF,-12.90573299
+m1_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m1,psg,r6,TNF,-12.38500316
+m2_ileum_mucosa_control_r4_7d_biolrep,Day  7,m2,control,r4,TNF,-11.76699225
+m3_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m3,van,r5,TNF,-10.98768228
+m4_ileum_mucosa_control_r2_7d,Day  7,m4,control,r2,TNF,-7.220138597
+m1_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m1,van,r4,TNF,-11.4701917
+m1_ileum_mucosa_control_r2_7d,Day  7,m1,control,r2,TNF,-6.395596544
+m3_ileum_mucosa_control_r5_7d,Day  7,m3,control,r5,TNF,-12.34148008
+m3_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m3,psg,r5,TNF,-10.98026986
+m4_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m4,psg,r6,TNF,-12.47425017
+m1_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m1,psg,r5,TNF,-11.17651037
+m4_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m4,control,r4,TNF,-11.14368875
+m1_ileum_mucosa_amp_r2_7d,Day 21,m1,amp,r2,TNF,-3.857620051
+m2_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m2,psg,r4,TNF,-12.87800251
+m3_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m3,psg,r4,TNF,-12.3450405
+m4_ileum_mucosa_psg_r2_7d,Day  7,m4,psg,r2,TNF,-7.937377096
+m1_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m1,control,r4,TNF,-10.80253285
+m5_ileum_mucosa_psg_r2_7d,Day  7,m5,psg,r2,TNF,-8.744031058
+m2_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m2,psg,r5,TNF,-10.54450919
+m1_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m1,psg,r4,TNF,-11.38932825
+m4_ileum_mucosa_control_r6_7d,Day  7,m4,control,r6,TNF,-7.615989702
+m2_ileum_mucosa_control_r5_7d,Day  7,m2,control,r5,TNF,-12.2267326
+m5_ileum_mucosa_control_r2_7d,Day  7,m5,control,r2,TNF,-7.248783277
+m1_ileum_mucosa_flu_r2_7d,Day 21,m1,flu,r2,TNF,-7.304865388
+m4_ileum_mucosa_van_r6_7d,Day  7,m4,van,r6,TNF,-8.194566362
+m4_ileum_mucosa_psg_r6_21d,Day 21,m4,psg,r6,TNF,-8.841028202
+m1_ileum_mucosa_van_r2_7d,Day  7,m1,van,r2,TNF,-4.90342529
+m1_ileum_mucosa_control_r6_21d_bioltechrep,Day 21 (C. albicans),m1,control,r6,TNF,-10.80253285
+m2_ileum_mucosa_flu_r2_7d,Day 21,m2,flu,r2,TNF,-4.719170137
+m2_ileum_mucosa_van_r4_7d_biolrep,Day  7,m2,van,r4,TNF,-12.29652047
+m2_ileum_mucosa_control_r2_7d,Day  7,m2,control,r2,TNF,-3.766888564
+m3_ileum_mucosa_control_r6_7d,Day  7,m3,control,r6,TNF,-7.844794786
+m1_ileum_mucosa_psg_r2_7d,Day  7,m1,psg,r2,TNF,-3.895446164
+m3_ileum_mucosa_van_r5_7d,Day  7,m3,van,r5,TNF,-13.55448565
+m2_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m2,control,r5,TNF,-10.34562702
+m3_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m3,psg,r6,TNF,-12.3450405
+m2_ileum_mucosa_amp_r2_7d,Day 21,m2,amp,r2,TNF,-5.4173239
+m3_ileum_mucosa_control_r6_21d,Day 21,m3,control,r6,TNF,-10.05863373
+m4_ileum_mucosa_van_r6_21d,Day 21,m4,van,r6,TNF,-11.34759748
+m3_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m3,psg,r6,TNF,-11.65927697
+m4_ileum_mucosa_van_r2_7d,Day  7,m4,van,r2,TNF,-7.103581616
+m3_ileum_mucosa_van_r6_21d,Day 21,m3,van,r6,TNF,-10.56060372
+m2_ileum_mucosa_control_r6_7d,Day  7,m2,control,r6,TNF,-8.037152601
+m1_ileum_mucosa_psg_r5_7d,Day  7,m1,psg,r5,TNF,-12.52363402
+m3_ileum_mucosa_van_r6_7d,Day  7,m3,van,r6,TNF,-7.145308401
+m3_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m3,van,r6,TNF,-11.96502002
+m3_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m3,control,r5,TNF,-10.42020047
+m3_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m3,van,r4,TNF,-11.96502002
+m4_ileum_mucosa_psg_r6_7d,Day  7,m4,psg,r6,TNF,-8.368010546
+m2_ileum_mucosa_psg_r6_21d,Day 21,m2,psg,r6,TNF,-10.62501775
+m2_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m2,psg,r6,TNF,-12.87800251
+m3_ileum_mucosa_control_r4_7d_biolrep,Day  7,m3,control,r4,TNF,-11.90956711
+m3_ileum_mucosa_flu_r2_7d,Day 21,m3,flu,r2,TNF,-7.389791004
+m2_ileum_mucosa_van_r2_7d,Day  7,m2,van,r2,TNF,-4.966767224
+m3_ileum_mucosa_control_r2_7d,Day  7,m3,control,r2,TNF,-3.715917716
+m2_ileum_mucosa_psg_r2_7d,Day  7,m2,psg,r2,IL4,-12.37364905
+m5_ileum_mucosa_flu_r2_7d,Day 21,m5,flu,r2,IL4,-11.53594745
+m1_ileum_mucosa_van_r5_7d,Day  7,m1,van,r5,IL4,-11.31985357
+m3_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m3,control,r4,IL4,-10.17337948
+m4_ileum_mucosa_amp_r2_7d,Day 21,m4,amp,r2,IL4,-12.40579757
+m2_ileum_mucosa_van_r6_7d,Day  7,m2,van,r6,IL4,-8.275380989
+m3_ileum_mucosa_amp_r2_7d,Day 21,m3,amp,r2,IL4,-11.3280904
+m4_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m4,van,r6,IL4,-4.202602605
+m3_ileum_mucosa_psg_r2_7d,Day  7,m3,psg,r2,IL4,-12.47523134
+m2_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m2,van,r5,IL4,-12.57640616
+m1_ileum_mucosa_van_r6_7d_bioltechrep,Day  7,m1,van,r6,IL4,-11.25733796
+m4_ileum_mucosa_flu_r2_7d,Day 21,m4,flu,r2,IL4,-12.52988496
+m3_ileum_mucosa_van_r4_7d_biolrep,Day  7,m3,van,r4,IL4,-11.02065289
+m1_ileum_mucosa_control_r4_7d_biolrep,Day  7,m1,control,r4,IL4,-11.58027326
+m4_ileum_mucosa_control_r6_21d,Day 21,m4,control,r6,IL4,-9.819867252
+m2_ileum_mucosa_psg_r6_7d,Day  7,m2,psg,r6,IL4,-5.26397971
+m5_ileum_mucosa_van_r2_7d,Day  7,m5,van,r2,IL4,-10.69165336
+m3_ileum_mucosa_psg_r6_21d,Day 21,m3,psg,r6,IL4,-11.00236188
+m2_ileum_mucosa_psg_r5_7d,Day  7,m2,psg,r5,IL4,-8.870993699
+m3_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m3,psg,r4,IL4,-11.43004678
+m1_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m1,van,r5,IL4,-11.95754989
+m1_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m1,control,r5,IL4,-10.77255602
+m3_ileum_mucosa_psg_r6_7d,Day  7,m3,psg,r6,IL4,-8.610855729
+m3_ileum_mucosa_psg_r5_7d,Day  7,m3,psg,r5,IL4,-8.208940404
+m2_ileum_mucosa_control_r6_21d,Day 21,m2,control,r6,IL4,-9.134741369
+m4_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m4,van,r4,IL4,-4.202602605
+m1_ileum_mucosa_control_r5_7d,Day  7,m1,control,r5,IL4,-11.2792377
+m3_ileum_mucosa_van_r2_7d,Day  7,m3,van,r2,IL4,-12.4919936
+m1_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m1,psg,r4,IL4,-11.10753369
+m2_ileum_mucosa_van_r6_21d,Day 21,m2,van,r6,IL4,-11.39200956
+m4_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m4,psg,r4,IL4,-11.25009977
+m1_ileum_mucosa_van_r4_7d_biolrep,Day  7,m1,van,r4,IL4,-11.25733796
+m1_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m1,van,r6,IL4,-11.30047084
+m2_ileum_mucosa_van_r5_7d,Day  7,m2,van,r5,IL4,-12.02039008
+m1_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m1,psg,r6,IL4,-11.10753369
+m2_ileum_mucosa_control_r4_7d_biolrep,Day  7,m2,control,r4,IL4,-10.54157096
+m3_ileum_mucosa_van_r5_21d,Day 21 (C. albicans),m3,van,r5,IL4,-12.468854
+m4_ileum_mucosa_control_r2_7d,Day  7,m4,control,r2,IL4,-12.10813138
+m1_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m1,van,r4,IL4,-11.30047084
+m1_ileum_mucosa_control_r2_7d,Day  7,m1,control,r2,IL4,-10.95446463
+m3_ileum_mucosa_control_r5_7d,Day  7,m3,control,r5,IL4,-12.72484644
+m3_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m3,psg,r5,IL4,-13.6644561
+m4_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m4,psg,r6,IL4,-11.25009977
+m1_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m1,psg,r5,IL4,-12.4919936
+m4_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m4,control,r4,IL4,-9.545796325
+m1_ileum_mucosa_amp_r2_7d,Day 21,m1,amp,r2,IL4,-11.53275477
+m2_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m2,psg,r4,IL4,-7.094025823
+m3_ileum_mucosa_psg_r4_7d_biolrep,Day  7,m3,psg,r4,IL4,-10.96565991
+m4_ileum_mucosa_psg_r2_7d,Day  7,m4,psg,r2,IL4,-12.18898743
+m1_ileum_mucosa_control_r4_21d_biolrep,Day 21 (C. albicans),m1,control,r4,IL4,-9.481535111
+m5_ileum_mucosa_psg_r2_7d,Day  7,m5,psg,r2,IL4,-11.32220594
+m2_ileum_mucosa_psg_r5_21d,Day 21 (C. albicans),m2,psg,r5,IL4,-12.58884226
+m1_ileum_mucosa_psg_r4_21d_biolrep,Day 21 (C. albicans),m1,psg,r4,IL4,-9.754371238
+m4_ileum_mucosa_control_r6_7d,Day  7,m4,control,r6,IL4,-11.31246115
+m2_ileum_mucosa_control_r5_7d,Day  7,m2,control,r5,IL4,-11.67389031
+m5_ileum_mucosa_control_r2_7d,Day  7,m5,control,r2,IL4,-10.72671608
+m1_ileum_mucosa_flu_r2_7d,Day 21,m1,flu,r2,IL4,-12.38482378
+m4_ileum_mucosa_van_r6_7d,Day  7,m4,van,r6,IL4,-7.094025823
+m4_ileum_mucosa_psg_r6_21d,Day 21,m4,psg,r6,IL4,-9.930728727
+m1_ileum_mucosa_van_r2_7d,Day  7,m1,van,r2,IL4,-11.45058937
+m1_ileum_mucosa_control_r6_21d_bioltechrep,Day 21 (C. albicans),m1,control,r6,IL4,-9.481535111
+m2_ileum_mucosa_flu_r2_7d,Day 21,m2,flu,r2,IL4,-11.72336999
+m2_ileum_mucosa_van_r4_7d_biolrep,Day  7,m2,van,r4,IL4,-10.77976942
+m2_ileum_mucosa_control_r2_7d,Day  7,m2,control,r2,IL4,-13.80076974
+m3_ileum_mucosa_control_r6_7d,Day  7,m3,control,r6,IL4,-10.64584599
+m1_ileum_mucosa_psg_r2_7d,Day  7,m1,psg,r2,IL4,-12.11601076
+m3_ileum_mucosa_van_r5_7d,Day  7,m3,van,r5,IL4,-11.66341469
+m2_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m2,control,r5,IL4,-11.97449437
+m3_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m3,psg,r6,IL4,-10.96565991
+m2_ileum_mucosa_amp_r2_7d,Day 21,m2,amp,r2,IL4,-11.14701232
+m3_ileum_mucosa_control_r6_21d,Day 21,m3,control,r6,IL4,-11.64329956
+m4_ileum_mucosa_van_r6_21d,Day 21,m4,van,r6,IL4,-10.4590177
+m3_ileum_mucosa_psg_r6_21d_bioltechrep,Day 21 (C. albicans),m3,psg,r6,IL4,-11.43004678
+m4_ileum_mucosa_van_r2_7d,Day  7,m4,van,r2,IL4,-8.374509435
+m3_ileum_mucosa_van_r6_21d,Day 21,m3,van,r6,IL4,-9.846132269
+m2_ileum_mucosa_control_r6_7d,Day  7,m2,control,r6,IL4,-9.573361122
+m1_ileum_mucosa_psg_r5_7d,Day  7,m1,psg,r5,IL4,-8.160081843
+m3_ileum_mucosa_van_r6_7d,Day  7,m3,van,r6,IL4,-11.43004678
+m3_ileum_mucosa_van_r6_21d_bioltechrep,Day 21 (C. albicans),m3,van,r6,IL4,-11.72517606
+m3_ileum_mucosa_control_r5_21d,Day 21 (C. albicans),m3,control,r5,IL4,-12.23819509
+m3_ileum_mucosa_van_r4_21d_biolrep,Day 21 (C. albicans),m3,van,r4,IL4,-11.72517606
+m4_ileum_mucosa_psg_r6_7d,Day  7,m4,psg,r6,IL4,-8.840233048
+m2_ileum_mucosa_psg_r6_21d,Day 21,m2,psg,r6,IL4,-8.9383838
+m2_ileum_mucosa_psg_r6_7d_bioltechrep,Day  7,m2,psg,r6,IL4,-7.094025823
+m3_ileum_mucosa_control_r4_7d_biolrep,Day  7,m3,control,r4,IL4,-11.03959612
+m3_ileum_mucosa_flu_r2_7d,Day 21,m3,flu,r2,IL4,-10.80828953
+m2_ileum_mucosa_van_r2_7d,Day  7,m2,van,r2,IL4,-9.740253679
+m3_ileum_mucosa_control_r2_7d,Day  7,m3,control,r2,IL4,-12.84184943
