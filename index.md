@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 ---
-Bayesian models of _C. albicans_ colonization.
+A Bayesian model-based investigation of _Candida albicans_ colonization in a preclinical mouse model
