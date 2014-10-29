@@ -4,7 +4,7 @@ name: Open Pencil
 url: ../
 baseurl: /bayesianmice
 description: Bayesian modeling for C. albicans colonization.
-avatar: https://avatars3.githubusercontent.com/u/1999668?v=2&s=70
+avatar: https://raw.githubusercontent.com/openpencil/openpencil.github.io/master/assets/OpenPencil.png
 
 # Conversion
 markdown: rdiscount
