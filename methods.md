@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Methods
+active: methods
 ---
 ---
 <br/>
@@ -10,10 +11,6 @@ title: Methods
 ###### Bioinformatics
 - [The YAP workflow for taxonomic classification]({{ site.baseurl }}/yap_workflow.html)  
 <br/>
-<!-- - [Building an ITS Database](pages/user_site.html)
-
 ###### Statistics
-- [Bayesian Model Averaging](pages/nojekyll.html)
-
-###### Open source code and additional resources
-- [Resources](pages/resources.html) -->
+- [Ensemble Bayesian modeling]({{ site.baseurl }}/bayesian_ensemble.html)  
+<br/>

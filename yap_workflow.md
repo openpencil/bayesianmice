@@ -5,14 +5,13 @@ title: The YAP Workflow
 ---
 **The YAP Bioinformatics Workflow Engine**
 
-<span style="color:gray;">Author: [Sebastian Szpakowski][shpakoo]</span>
 !TOC
 
 ##### Computationally efficient 16S and ITS Reads Processing and Taxonomic Classification
 
-Taxonomic classification of the 16S and ITS sequences was performed using [YAP][YAP], a computationally optimized bioinformatics workflow.  The workflow was run on a distributed computing cluster managed by the [Univa Grid Engine][Univa].
+Taxonomic classification of the 16S and ITS sequences was performed using [YAP][YAP], a computationally optimized bioinformatics workflow[^0].  The workflow was run on a distributed computing cluster managed by the [Univa Grid Engine][Univa].
 
-######Preliminary Processing and Quality Checks
+###### Preliminary Processing and Quality Checks
 Within YAP, the 454 sequencer-generated SFF files were converted into FASTA and qual files using _sffinfo_ from the Roche SFF Tools software package. After demultiplexing the sequences with mothur[^1], quality filtering of the sequences was performed using mothur’s implementation of PyroNoise[^2],[^3]. Sequences shorter than 220 bases were discarded[^4] and sequences spanning the V4 and the V5 regions of the 16S rDNA were retained. Duplicate sequences were collapsed and 454 hybrid sequences were removed with CD-HIT-454[^5a],[^6]. The sequences were then aligned against the 16S SILVA database to verify their 16S origins and to ensure that the sequences were correctly positioned on the V4 and V5 regions[^7]. Using the uchime implementation in mothur and the 16S SILVA database, multi-organism hybrid-sequences and chimeras were discarded[^8]. Segments with coverage lower than 90% of the maximum coverage were trimmed from the sequences.
 
 ###### Clustering and Taxonomic Assignment
@@ -38,6 +37,7 @@ In the YAP workflow, high quality databases were used to a) verify the origin of
 
 
 #### References
+[^0]: Szpakowski S. YAP: A Computationally Efficient Workflow for Taxonomic Analyses of Bacterial 16S and Fungal ITS Sequences. GitHub. 2013.
 [^1]: Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, et al. Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol. American Society for Microbiology; 2009 Dec 1;75(23):7537–41. Available from: http://dx.doi.org/10.1128/AEM.01541-09
 
 [^2]: Quince C, Lanzen A, Davenport RJ, Turnbaugh PJ. Removing noise from pyrosequenced amplicons. BMC Bioinformatics . 2011 Jan 28;12(1):38+. Available from: http://dx.doi.org/10.1186/1471-2105-12-38

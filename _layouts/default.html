@@ -41,9 +41,24 @@ var WRInitTime=(new Date()).getTime();
 <div class="site">
   <div class="title">
     <a href="{{ site.url }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-    <a href="{{ site.baseurl }}/">bayesianmice</a>
-    <a class="extra" href="{{ site.baseurl }}/data.html">Data</a>
-    <a class="extra" href="{{ site.baseurl }}/methods.html">Methods</a>
+      <a href="{{ site.baseurl }}/">bayesianmice</a>
+      {% if page.active == "data" %}
+      <a class="active" href="#">Data</a>
+      {% else %}
+      <a class="extra" href="{{ site.baseurl }}/data.html">Data</a>
+      {% endif %}
+      {% if page.active == "methods" %}
+      <a class="active" href="#">Methods</a>
+      {% else %}
+      <a class="extra" href="{{ site.baseurl }}/methods.html">Methods</a>
+      {% endif %}
+      {% if page.active == "results" %}
+      <a class="active" href="#">Results</a>
+      {% else %}
+      <a class="extra" href="{{ site.baseurl }}/results.html">Results</a>
+      {% endif %}
+
+
   </div>
   {{ content }}
   <ul class="posts_list">

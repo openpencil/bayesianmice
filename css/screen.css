@@ -48,6 +48,7 @@ a:visited {
   color: #a0a;
 }
 
+
 /**Horizontal rules **/
 hr {
   background-color: #eeeeee;
@@ -136,6 +137,11 @@ ul.posts {
 
   .site .title a.extra:hover {
     color: black;
+  }
+
+  .site .title a.active {
+    color: a00;
+    margin-left: 1em;
   }
 
   .site .meta {

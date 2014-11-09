@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
     <!-- meta attributes -->
-    <title>Methods</title>
+    <title>Effect Sizes</title>
     <meta name="author" content="Open Pencil" />
     <meta name="description" content="Bayesian modeling for C. albicans colonization.">
 
@@ -46,7 +46,7 @@ var WRInitTime=(new Date()).getTime();
       <a class="extra" href="/data.html">Data</a>
       
       
-      <a class="active" href="#">Methods</a>
+      <a class="extra" href="/methods.html">Methods</a>
       
       
       <a class="extra" href="/results.html">Results</a>
@@ -56,26 +56,43 @@ var WRInitTime=(new Date()).getTime();
   </div>
   <hr />
 
-<p><br/></p>
+<p><strong>Effect Sizes</strong></p>
 
-<a name="Laboratory"></a>
-<h6>Laboratory</h6>
-
+<p>Effect sizes across the cytokine and colonization models.
 <ul>
-<li><a href="/pcr_primers.html">Primers and barcodes for 16S amplification</a><br/>
-<br/>
-
-<a name="Bioinformatics"></a>
-<h6>Bioinformatics</h6></li>
-<li><a href="/yap_workflow.html">The YAP workflow for taxonomic classification</a><br/>
-<br/>
-
-<a name="Statistics"></a>
-<h6>Statistics</h6></li>
-<li><a href="/bayesian_ensemble.html">Ensemble Bayesian modeling</a><br/>
-<br/></li>
+ <li>
+ <ul>
+  <li>
+  <ul>
+   <li>
+   <ul>
+    <li><a href="#Cytokine.models">Cytokine models</a></li>
+    <li><a href="#Colonization.models">Colonization models</a></li>
+   </ul>
+   </li>
+  </ul>
+  </li>
+ </ul>
+ </li>
 </ul>
 
+</p>
+
+<a name="Cytokine.models"></a>
+<h4>Cytokine models</h4>
+
+<p><img src="assets/figures/forestplot_cyto_bact.svg" alt="Effect of bacteria and antibiotics on cytokines in fecal pellets." /></p>
+
+<p><img src="assets/figures/forestplot_cyto_fung.svg" alt="Effect of fungi and antibiotics on cytokines in terminal ileum." /></p>
+
+<hr />
+
+<a name="Colonization.models"></a>
+<h4>Colonization models</h4>
+
+<p><img src="assets/figures/forestplot_cfu_bact.svg" alt="Effect of bacteria and cytokines on _C. albicans_ colonization." /></p>
+
+<p><img src="assets/figures/forestplot_cfu_fung.svg" alt="Effect of fungi and cytokines on _C. albicans_ colonization." /></p>
 
   <ul class="posts_list">
       
