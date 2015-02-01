@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
     <!-- meta attributes -->
-    <title>Heterogeneity</title>
+    <title>bayesianmice - Heterogeneity</title>
     <meta name="author" content="Open Pencil" />
     <meta name="description" content="Bayesian modeling for C. albicans colonization.">
 
@@ -51,6 +51,7 @@ var WRInitTime=(new Date()).getTime();
       
       <a class="extra" href="/results.html">Results</a>
       
+      <a class="extra" href="https://github.com/openpencil/bayesianmice">Code</a>
 
 
   </div>
@@ -58,7 +59,9 @@ var WRInitTime=(new Date()).getTime();
 
 <p><strong>Visualizing Heterogeneity</strong></p>
 
-<p>Heterogeneity of effects across the antibiotic, cytokine and colonization models.
+<p>Figure 3a, 3b, 4a, 4b | Heterogeneity in effects across the antibiotic, cytokine and colonization models.</p>
+
+<p>Plot below show the median effect size of each variable (bacteria, fungi, experimental) against its posterior inclusion probability (PIP) in the following BMA models:
 <ul>
  <li>
  <ul>
@@ -78,6 +81,8 @@ var WRInitTime=(new Date()).getTime();
 </ul>
 
 </p>
+
+<p>PIP is expressed in %. The effect size of a microbe is its regression coefficient in the model and depends on its relative abundance under antibiotic treatment (PSG or Van.) relative to controls (Cntrl), after adjusting for all the other covariables in the model. We show only the effects that were statistically significant i.e. the corresponding Bayesian 95% CIs did not include zero. Higher PIPs indicate higher consistency in antibiotic effects. PIPs can range from 0% (not consistent) to 100% (very highly consistent). All models were built at the genus level. Each point in the graph denotes a genus coloured by its phylum membership.</p>
 
 <hr />
 

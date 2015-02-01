@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
     <!-- meta attributes -->
-    <title>bayesianmice - Results</title>
+    <title>bayesianmice - Descriptive Analysis</title>
     <meta name="author" content="Open Pencil" />
     <meta name="description" content="Bayesian modeling for C. albicans colonization.">
 
@@ -49,7 +49,7 @@ var WRInitTime=(new Date()).getTime();
       <a class="extra" href="/methods.html">Methods</a>
       
       
-      <a class="active" href="#">Results</a>
+      <a class="extra" href="/results.html">Results</a>
       
       <a class="extra" href="https://github.com/openpencil/bayesianmice">Code</a>
 
@@ -57,31 +57,60 @@ var WRInitTime=(new Date()).getTime();
   </div>
   <hr />
 
-<p><br/></p>
+<p><strong>Descriptive Analysis</strong></p>
 
-<a name="Descriptive.analysis"></a>
-<h6>Descriptive analysis</h6>
-
+<p>Figure 2 | Exploring the effects of PSG (P) and vancomycin (Van., V) relative to controls on:
 <ul>
-<li><a href="/descriptive.html">The effect of antibiotics on <em>C. albicans</em> colonization, cytokines and microbiome diversity.</a><br/>
-<br/>
-
-<a name="Effect.of.antibiotics.on.the.microbiome"></a>
-<h6>Effect of antibiotics on the microbiome</h6></li>
-<li><a href="/scaledabundance.html">Effect of antibiotics on the abundances of bacterial and fungal microbiome.</a><br/>
-<br/>
-
-<a name="Visualizing.heterogeneity"></a>
-<h6>Visualizing heterogeneity</h6></li>
-<li><a href="/heterogeneity.html">Heterogeneity of effects across the antibiotic, cytokine and colonization models.</a><br/>
-<br/>
-
-<a name="Effect.Sizes"></a>
-<h6>Effect Sizes</h6></li>
-<li><a href="/effectsize.html">Effect-sizes across the cytokine and colonization models.</a><br/>
-<br/></li>
+ <li>
+ <ul>
+  <li>
+  <ul>
+   <li>
+   <ul>
+    <li><a href="#a...em.C..albicans..em..colonization">a. <em>C. albicans</em> colonization</a></li>
+    <li><a href="#b..Cytokine.expression.levels">b. Cytokine expression levels</a></li>
+    <li><a href="#c..Microbiome.diversity">c. Microbiome diversity</a></li>
+   </ul>
+   </li>
+  </ul>
+  </li>
+ </ul>
+ </li>
 </ul>
 
+</p>
+
+<p>Statistical analysis: In each boxplot, the upper and lower hinges correspond to the 25th and 75th percentiles of the data, also known as the interquartile range (IQR). The upper and lower whiskers extend from the hinge to the highest value within 1.5 times the IQR. Points beyond the end of the whiskers denote outliers. Asterisks, when present, denote statistically significant differences relative to controls. Findings were considered statistically significant when the 99.6% bootstrap confidence intervals (CI) of the normalized mean difference (Welch’s statistic) between the antibiotic group and the controls did not include zero. The 99.6% bootstrap CIs were computed over 10,000 resamples and included a conservative correction for 6 simultaneous hypotheses corresponding to the 6 cytokines. Results shown are the combined data from at least two independent experiments of 3–5 mice each.
+(Please see <a href="/methods.html">Methods</a> and the main paper for additional description.)</p>
+
+<hr />
+
+<a name="a...em.C..albicans..em..colonization"></a>
+<h4>a. <em>C. albicans</em> colonization</h4>
+
+<p>Levels of log transformed colony forming units per gram (CFU/g) of <em>C. albicans</em> from faecal pellets sampled on days 9, 14 and 21 from controls (green), vancomycin-treated (violet) and PSG-treated (orange) mice.</p>
+
+<p><img src="assets/figures/cfu_vs_day_by_experiment.svg" alt="_C. albicans_ colonization." /></p>
+
+<hr />
+
+<a name="b..Cytokine.expression.levels"></a>
+<h4>b. Cytokine expression levels</h4>
+
+<p>mRNA expression levels of the 6 cytokines measured from segments of the terminal ileum sampled on days 7 and 21. Day 21 +<em>C. albicans</em> and Day 21 respectively indicate mice groups with and without exposure to <em>C. albicans</em> gavage.</p>
+
+<p><img src="assets/figures/cytokine_expression_boxplots.svg" alt="Cytokine expression levels." /></p>
+
+<hr />
+
+<a name="c..Microbiome.diversity"></a>
+<h4>c. Microbiome diversity</h4>
+
+<p>Bacterial and Fungal diversity on days 7 and 21 both with (Day 21 +<em>C. albicans</em>) and without <em>C. albicans</em> exposure (Day 21) in the faecal pellets and the terminal ileum. Diversity was computed using the inverse Simpson index.</p>
+
+<p><img src="assets/figures/diversity_vs_day_Fecal.svg" alt="Microbiome Diversity: Faecal Pellets." /></p>
+
+<p><img src="assets/figures/diversity_vs_day_Ileum.svg" alt="Microbiome Diversity: Terminal Ileum." /></p>
 
   <ul class="posts_list">
       

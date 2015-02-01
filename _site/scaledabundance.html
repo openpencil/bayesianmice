@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
     <!-- meta attributes -->
-    <title>Scaled Abundances</title>
+    <title>bayesianmice - Effect of antibiotics on the microbiome</title>
     <meta name="author" content="Open Pencil" />
     <meta name="description" content="Bayesian modeling for C. albicans colonization.">
 
@@ -51,18 +51,18 @@ var WRInitTime=(new Date()).getTime();
       
       <a class="extra" href="/results.html">Results</a>
       
+      <a class="extra" href="https://github.com/openpencil/bayesianmice">Code</a>
 
 
   </div>
   <hr />
 
-<p><strong>Scaled abundances of microbiota</strong></p>
+<p><strong>Effect of antibiotics on the microbiome</strong></p>
 
-<p>Scaled abundances of bacteria and fungi following antibiotic administration.</p>
+<p>Figure 3c, 3d, 4c, 4d | Effect of antibiotics on the bacterial and fungal microbiome.</p>
 
-<p>C: Controls, V: Vancomycin, P: PSG (Penicillin, Streptomycin, Gentamicin)</p>
-
-<p><ul>
+<p>Results from BMA logistic regression ensembles exploring the antibiotic and bacterial microbiome interface are shown below. The heatmaps show the scaled relative abundances (scaled to the range 0–1) of the:
+<ul>
  <li>
  <ul>
   <li>
@@ -81,6 +81,8 @@ var WRInitTime=(new Date()).getTime();
 
 </p>
 
+<p>with the top consistent and significant differences across the PSG (P), vancomycin (Van., V) and control (C ) groups on days 7 and 21. Numbers in square brackets denote distinct sequence clusters that were mapped to the same genus but could not be collapsed since they were more than 3% dissimilar from each other. UC denotes sequence clusters that did not have a genus level classification in any of the databases (NCBI, SILVA) we used as reference for taxonomic classification and could not be resolved using the Megablast algorithm. Each genus is annotated with its phylum-level label in the heatmaps.</p>
+
 <hr />
 
 <a name="Bacteria"></a>
@@ -88,7 +90,7 @@ var WRInitTime=(new Date()).getTime();
 
 <p><img src="assets/figures/scaledabundance_bact_fecal.svg" alt="Scaled abundances of bacteria in fecal pellets following antibiotic administration." /></p>
 
-<p><img src="assets/figures/scaledabundance_bact_ileum.svg" alt="Scaled abundances of bacteria in fecal pellets following antibiotic administration." /></p>
+<p><img src="assets/figures/scaledabundance_bact_ileum.svg" alt="Scaled abundances of bacteria in terminal ileum following antibiotic administration." /></p>
 
 <hr />
 
@@ -97,7 +99,7 @@ var WRInitTime=(new Date()).getTime();
 
 <p><img src="assets/figures/scaledabundance_fung_fecal.svg" alt="Scaled abundances of bacteria in fecal pellets following antibiotic administration." /></p>
 
-<p><img src="assets/figures/scaledabundance_fung_ileum.svg" alt="Scaled abundances of bacteria in fecal pellets following antibiotic administration." /></p>
+<p><img src="assets/figures/scaledabundance_fung_ileum.svg" alt="Scaled abundances of bacteria in terminal ileum following antibiotic administration." /></p>
 
   <ul class="posts_list">
       
