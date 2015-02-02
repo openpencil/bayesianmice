@@ -12,4 +12,4 @@ The script, `bayesianmice_visualization.R`, provides the complete underlying cod
 [results]: http://openpencil.github.io/bayesianmice/results.html "_bayesianmice_: Results"
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/openpencil/bayesianmice/trend.png?pixel)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/openpencil/bayesianmice/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
