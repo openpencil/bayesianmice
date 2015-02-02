@@ -1,0 +1,26 @@
+# PSG alone
+"uncl_Coriobacteriaceae_5"
+"Rikenella"
+"Dorea"
+"Clostridium_XlVa"
+"Clostridium_IV"
+"Blautia"
+"Acetivibrio"
+#  PSG and Van
+"Vampirovibrio"
+# Van alone
+"uncl_Porphyromonadaceae_5"
+"Odoribacter"
+"Oscillibacter"
+"Prevotella"
+"Barnesiella"
+"Parabacteroides"
+"uncl_Firmicutes_2"
+"Proteus"
+#PSG van differential
+"Cronobacter"
+"Anaeroplasma"
+"uncl_Lactobacillaceae_5"
+"Parasutterella"
+"Mucispirillum"
+"Lactobacillus"
