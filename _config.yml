@@ -5,6 +5,7 @@ url: ../
 baseurl: /bayesianmice
 description: Bayesian modeling for C. albicans colonization.
 avatar: https://raw.githubusercontent.com/openpencil/openpencil.github.io/master/assets/OpenPencil.png
+google_analytics: UA-59204692-1
 
 # Conversion
 markdown: rdiscount
@@ -17,6 +18,6 @@ rdiscount:
   toc_token: "!TOC"
 highlighter: pygments
 
-google_analytics: UA-59204692-1
+
 email: jyoti.shankar@icloud.com
 github: openpencil
