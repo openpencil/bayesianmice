@@ -13,4 +13,4 @@ _Shankar, J. et al. Using Bayesian modelling to investigate factors governing an
 
 
 <!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/readme?pixel)](https://github.com/igrigorik/ga-beacon)
