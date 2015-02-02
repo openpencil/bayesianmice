@@ -4,6 +4,10 @@
 Main website, data and additional documentation @ the [the project website][mainsite]
 Check out the code for data-processing, Bayesian modelling and visualization here.
 
+For the complete background, methods, results and discussion, please review:
+
+<span style="color:#5e005e;">Shankar, J. et al. Using Bayesian modelling to investigate factors governing antibiotic-induced Candida albicans colonization of the GI tract. Sci. Rep. 5, 8131; DOI:10.1038/srep08131 (2015).</span>
+
 <!--Websites-->
 [mainsite]: http://openpencil.github.io/bayesianmice/ "_bayesianmice_: project documentation website"
 
