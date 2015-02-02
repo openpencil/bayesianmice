@@ -16,7 +16,7 @@ Receipt of broad-spectrum antibiotics enhances _Candida albicans_ colonization o
 
 * [Paper](): Read the paper at _Scientific Reports_.
 <br/>
-<span style="color:#5e005e;">Shankar, J. et al. Using Bayesian modelling to investigate factors governing antibiotic-induced _Candida albicans_ colonization of the GI tract. Sci. Rep. 5, 8131; DOI:10.1038/srep08131 (2015).</span>
+<span style="color:#5e005e;">Shankar, J. et al. Using Bayesian modelling to investigate factors governing antibiotic-induced _Candida albicans_ colonization of the GI tract. Sci. Rep. 5, 8131; DOI:10.1038/srep08131 (2015) Available at: http://dx.doi.org/10.1038/srep08131.</span>
 
 * [Data]({{ site.baseurl }}/data.html): Download the data associated with the project.
 
@@ -26,6 +26,3 @@ Receipt of broad-spectrum antibiotics enhances _Candida albicans_ colonization o
 
 * [Code](https://github.com/openpencil/bayesianmice): Check out the code used for data processing and Bayesian modelling.
 <br/>
-
-<!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/index?pixel)](https://github.com/igrigorik/ga-beacon)

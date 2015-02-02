@@ -33,6 +33,3 @@ Taxonomic classification of the 16S and ITS sequences was performed using YAP, a
 ###### Statistics
 Steps involved in data processing and the detailed specifications of the Bayesian models used in the analysis of the experimental data are described in [Ensemble Bayesian modeling]({{ site.baseurl }}/bayesian_ensemble.html)  
 <br/>
-
-<!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/methods?pixel)](https://github.com/igrigorik/ga-beacon)

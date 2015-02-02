@@ -25,7 +25,3 @@ Panels below show the 95% Bayesian CI of effect sizes computed from BMA linear r
 ![Effect of bacteria and cytokines on _C. albicans_ colonization.](assets/figures/forestplot_cfu_bact.svg)
 
 ![Effect of fungi and cytokines on _C. albicans_ colonization.](assets/figures/forestplot_cfu_fung.svg)
-
-
-<!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/effectsize?pixel)](https://github.com/igrigorik/ga-beacon)

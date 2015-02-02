@@ -25,7 +25,3 @@ with the top consistent and significant differences across the PSG (P), vancomyc
 
 
 ![Scaled abundances of bacteria in terminal ileum following antibiotic administration.](assets/figures/scaledabundance_fung_ileum.svg)
-
-
-<!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/scaledabundance?pixel)](https://github.com/igrigorik/ga-beacon)

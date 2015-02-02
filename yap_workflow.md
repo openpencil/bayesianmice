@@ -62,7 +62,3 @@ In the YAP workflow, high quality databases were used to a) verify the origin of
 [^16]: Notredame C, Higgins DG, Heringa J. T-Coffee: A novel method for fast and accurate multiple sequence alignment. J Mol Biol . National Institute for Medical Research, The Ridgeway, London, NW7 1AA, UK. cedric.notredame@europe.com; 2000 Sep 8;302(1):205–17. Available from: http://dx.doi.org/10.1006/jmbi.2000.4042
 [^17]: Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res . bob@drive5.com: Oxford University Press; 2004 Mar 19;32(5):1792–7. Available from: http://dx.doi.org/10.1093/nar/gkh340
 [^18]: Benson DA, Karsch-Mizrachi I, Lipman DJ, Ostell J, Sayers EW. GenBank. Nucleic Acids Res . 2009 Jan 1;37Database issue):D26–31. Available from: http://dx.doi.org/10.1093/nar/gkn723
-
-
-<!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/yap_workflow?pixel)](https://github.com/igrigorik/ga-beacon)

@@ -17,5 +17,6 @@ rdiscount:
   toc_token: "!TOC"
 highlighter: pygments
 
+google_analytics: UA-59204692-1
 email: jyoti.shankar@icloud.com
 github: openpencil
