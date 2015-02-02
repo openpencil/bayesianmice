@@ -17,3 +17,6 @@ active: results
 ###### Effect Sizes
 - [Effect-sizes across the cytokine and colonization models.]({{ site.baseurl }}/effectsize.html)  
 <br/>
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/results?pixel)](https://github.com/igrigorik/ga-beacon)

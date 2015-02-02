@@ -76,3 +76,6 @@ Following amplification, the PCR products were cleaned using the Qiagen MinElute
 [^4]: Larena I, Salazar O, González V, Julián MC, Rubio V. 1999. Design of a primer for ribosomal DNA internal transcribed spacer with enhanced specificity for Ascomycetes. J. Biotechnol. 75:187–194.
 
 [^5]: Gardes M, Bruns TD. 1993. ITS primers with enhanced specificity for Basidiomycetes--application to the identification of mycorrhizae and rusts. Mol. Ecol. 2:113–118.
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/pcr_primers?pixel)](https://github.com/igrigorik/ga-beacon)

@@ -26,3 +26,6 @@ Receipt of broad-spectrum antibiotics enhances _Candida albicans_ colonization o
 
 * [Code](https://github.com/openpencil/bayesianmice): Check out the code used for data processing and Bayesian modelling.
 <br/>
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/index?pixel)](https://github.com/igrigorik/ga-beacon)

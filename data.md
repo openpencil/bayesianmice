@@ -33,3 +33,6 @@ Characteristics of data from the mouse microbiome study. _C. albicans_ colonizat
 
 <!--URL-->
 [Docs]: {{ site.baseurl }}/yap_workflow.html
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/data?pixel)](https://github.com/igrigorik/ga-beacon)

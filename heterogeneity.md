@@ -32,3 +32,7 @@ PIP is expressed in %. The effect size of a microbe is its regression coefficien
 ![Heterogeneity in the effect of bacteria and cytokines on _C. albicans_ colonization.](assets/figures/heterogeneity_cfu_bact.svg)
 
 ![Heterogeneity in the effect of fungi and cytokines on _C. albicans_ colonization.](assets/figures/heterogeneity_cfu_fung.svg)
+
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/heterogeneity?pixel)](https://github.com/igrigorik/ga-beacon)

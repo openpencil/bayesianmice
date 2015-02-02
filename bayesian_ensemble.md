@@ -80,3 +80,7 @@ the [R language for statistical computing][RLang][^7].
 <!-- Websites -->
 [Boom]: http://CRAN.R-project.org/package=BoomSpikeSlab "Bayesian Object Oriented Modeling for spike-and-slab regression."
 [RLang]: http://www.R-project.org/ "The R language and environment for statistical computing."
+
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/bayesian_ensemble?pixel)](https://github.com/igrigorik/ga-beacon)

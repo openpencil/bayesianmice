@@ -34,3 +34,7 @@ Bacterial and Fungal diversity on days 7 and 21 both with (Day 21 +_C. albicans_
 ![Microbiome Diversity: Faecal Pellets.](assets/figures/diversity_vs_day_Fecal.svg)
 
 ![Microbiome Diversity: Terminal Ileum.](assets/figures/diversity_vs_day_Ileum.svg)
+
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/gh-pages/descriptive?pixel)](https://github.com/igrigorik/ga-beacon)
