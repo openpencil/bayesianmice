@@ -10,3 +10,7 @@ _Shankar, J. et al. Using Bayesian modelling to investigate factors governing an
 <!--Websites-->
 [mainsite]: http://openpencil.github.io/bayesianmice/ "_bayesianmice_: project documentation website"
 [results]: http://openpencil.github.io/bayesianmice/results.html "_bayesianmice_: Results"
+
+
+<!--Google Analytics Code-->
+[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/readme)](https://github.com/igrigorik/ga-beacon)
