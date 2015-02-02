@@ -12,5 +12,4 @@ The script, `bayesianmice_visualization.R`, provides the complete underlying cod
 [results]: http://openpencil.github.io/bayesianmice/results.html "_bayesianmice_: Results"
 
 
-<!--Google Analytics Code-->
-[![Analytics](https://ga-beacon.appspot.com/UA-59204692-1/bayesianmice/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/openpencil/bayesianmice/trend.png?pixel)](https://bitdeli.com/free "Bitdeli Badge")
