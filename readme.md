@@ -10,6 +10,3 @@ The script, `bayesianmice_visualization.R`, provides the complete underlying cod
 <!--Websites-->
 [mainsite]: http://openpencil.github.io/bayesianmice/ "_bayesianmice_: project documentation website"
 [results]: http://openpencil.github.io/bayesianmice/results.html "_bayesianmice_: Results"
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/openpencil/bayesianmice/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
