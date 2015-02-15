@@ -11,6 +11,28 @@ For model specifications, underlying theory as well as a comparative evaluation 
 
 Code and documentation for the BMA models can be found in the `regeval repository` @ https://github.com/openpencil/regeval
 
+Citing `bayesianmice`
+
+> Shankar, J. bayesianmice: A Bayesian model-based investigation of Candida albicans colonization in a preclinical mouse model, GitHub. http://openpencil. github.io/bayesianmice (2014). Date of access: 18/12/2014.
+
+BibTeX
+```javascript
+@MISC{Shankar2014bayesianmice,
+  title        = "bayesianmice: A Bayesian model-based investigation of
+                  \textit{Candida albicans} colonization in a preclinical mouse
+                  model",
+  booktitle    = "{GitHub}",
+  author       = "Shankar, Jyoti",
+  publisher    = "GitHub",
+  year         = "2014",
+  url          = "http://openpencil.github.io/bayesianmice/",
+  howpublished = "\url{http://openpencil.github.io/bayesianmice/}",
+  doi          = "10.5281/zenodo.15408"
+}
+```
+
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15408.svg)](http://dx.doi.org/10.5281/zenodo.15408)
 <!--Websites-->
 [mainsite]: http://openpencil.github.io/bayesianmice/ "_bayesianmice_: project documentation website"
 [results]: http://openpencil.github.io/bayesianmice/results.html "_bayesianmice_: Results"
