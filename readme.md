@@ -27,12 +27,8 @@ BibTeX
   year         = "2014",
   url          = "http://openpencil.github.io/bayesianmice/",
   howpublished = "\url{http://openpencil.github.io/bayesianmice/}",
-  doi          = "10.5281/zenodo.15408"
 }
 ```
-
-
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15408.svg)](http://dx.doi.org/10.5281/zenodo.15408)
 <!--Websites-->
 [mainsite]: http://openpencil.github.io/bayesianmice/ "_bayesianmice_: project documentation website"
 [results]: http://openpencil.github.io/bayesianmice/results.html "_bayesianmice_: Results"
