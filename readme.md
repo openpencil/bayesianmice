@@ -13,7 +13,7 @@ Code and documentation for the BMA models can be found in the `regeval repositor
 
 Citing `bayesianmice`
 
-> Shankar, J. bayesianmice: A Bayesian model-based investigation of Candida albicans colonization in a preclinical mouse model, GitHub. http://openpencil. github.io/bayesianmice (2014). Date of access: 18/12/2014.
+> Shankar, J. et al. Using Bayesian modelling to investigate factors governing antibiotic-induced Candida albicans colonization of the GI tract. Scientific Reports. 5, 8131; DOI:10.1038/srep08131 (2015). Available at: http://dx.doi.org/10.1038/srep08131
 
 BibTeX
 ```javascript
