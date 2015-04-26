@@ -17,16 +17,24 @@ Citing `bayesianmice`
 
 BibTeX
 ```javascript
-@MISC{Shankar2014bayesianmice,
-  title        = "bayesianmice: A Bayesian model-based investigation of
-                  \textit{Candida albicans} colonization in a preclinical mouse
-                  model",
-  booktitle    = "{GitHub}",
-  author       = "Shankar, Jyoti",
-  publisher    = "GitHub",
-  year         = "2014",
-  url          = "http://openpencil.github.io/bayesianmice/",
-  howpublished = "\url{http://openpencil.github.io/bayesianmice/}",
+@ARTICLE{Shankar2015bayesianmice,
+  title       = "Using Bayesian modelling to investigate factors governing
+                 antibiotic-induced Candida albicans colonization of the {GI}
+                 tract",
+  author      = "Shankar, Jyoti and Solis, Norma V and Mounaud, Stephanie and
+                 Szpakowski, Sebastian and Liu, Hong and Losada, Liliana and
+                 Nierman, William C and Filler, Scott G",
+  journal     = "Scientific reports",
+  publisher   = "Nature Publishing Group",
+  volume      =  5,
+  pages       = "8131",
+  month       =  "3~" # feb,
+  year        =  2015,
+  url         = "http://dx.doi.org/10.1038/srep08131",
+  issn        = "2045-2322, 2045-2322",
+  pmid        = "25644850",
+  doi         = "10.1038/srep08131",
+  note        = "bayesianmice repository: https://github.com/openpencil/regeval"
 }
 ```
 <!--Websites-->
