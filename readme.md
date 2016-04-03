@@ -16,7 +16,7 @@ Citing `bayesianmice`
 > Shankar, J. et al. Using Bayesian modelling to investigate factors governing antibiotic-induced Candida albicans colonization of the GI tract. Scientific Reports. 5, 8131; DOI:10.1038/srep08131 (2015). Available at: http://dx.doi.org/10.1038/srep08131
 
 BibTeX
-```javascript
+```bibtex
 @ARTICLE{Shankar2015bayesianmice,
   title       = "Using Bayesian modelling to investigate factors governing
                  antibiotic-induced Candida albicans colonization of the {GI}
